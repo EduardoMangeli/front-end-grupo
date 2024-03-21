@@ -94,3 +94,5 @@ R13-2: Cada página deve ter um título único e descritivo, incorporando palavr
 R13-3: Meta descrições devem ser adicionadas a cada página usando a tag `<meta name="description" ... />`, contendo um resumo atraente e palavras-chave relevantes.
 
 R13-4: Todas as imagens devem ter atributos `alt` descritivos, incluindo palavras-chave relevantes.
+
+# alterada
