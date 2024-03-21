@@ -36,5 +36,6 @@ O website terá o javascript como linguagem de desenvolvimento do website juntam
 - How Much (Quanto?)
 Considerando que este é um projeto acadêmico, o custo direto não é aplicável. No entanto, podemos entender isso em termos de pontos na matéria Projeto Front End. Outro ponto importante é o custo de tempo, já que tanto os integrantes deste grupo estarão investindo tempo no desenvolvimento do sistema, quanto o cliente também estará investindo tempo com reuniões, grupos de whatsapp, etc.
 
-
 #main alterada
+# nada não
+
